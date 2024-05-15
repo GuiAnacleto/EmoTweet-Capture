@@ -1,0 +1,3 @@
+-> Capturar todos os tweets recentes do "x".
+-> gerar uma base com todos esses tweets (bd, excel). Ideal seria um banco de dados, com possibilidade de exportar para csv.
+-> pensar na possibilidade de implementar uma modulo de big data que consome dessa base para fazer a analise.
